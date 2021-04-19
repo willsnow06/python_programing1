@@ -9,6 +9,8 @@ The first class app of semester 1. A basic calculator with a few added features.
 
 [documentation](src/calculator.zip)
 
+[planing](https://github.com/willsnow06/python_programing1/blob/gh-pages/images/calculatorPic.jpeg)
+
 ### spacegame
 Final procesing project of the first semester. A game verry similar to asteroids.
 
