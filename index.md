@@ -1,4 +1,7 @@
-# Wills portfolio
+# Programing 1 portfolio
+
+Will snow
+contact: willsnow9590@granitesd.org
 
 ## Processing projects
 
