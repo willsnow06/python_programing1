@@ -39,3 +39,5 @@ This was an assignment where we created a wrote on a text file. The responses we
 ### Pig latin translator
 
 [documentation](https://github.com/willsnow06/python_programing1/blob/gh-pages/src/pig-latin-1.zip)
+
+[planning](https://github.com/willsnow06/python_programing1/blob/gh-pages/src/S202%20All%20About%20Strings-2%20(1)-1.docx)
