@@ -25,6 +25,10 @@ Final procesing project of the first semester. A game verry similar to asteroids
 
 ## Python projects
 
+### Random questions
+
+This was an assignment where we created a wrote on a text file. The responses were then recorded on a .txt file
+
 [documentation](src/thought-provoking-questions.zip)
 
 [planning](https://github.com/willsnow06/python_programing1/blob/gh-pages/images/S204%20Sequential%20Files-1.docx)
