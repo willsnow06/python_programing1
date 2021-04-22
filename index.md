@@ -28,3 +28,5 @@ Final procesing project of the first semester. A game verry similar to asteroids
 [documentation](src/thought-provoking-questions.zip)
 
 [planning](https://github.com/willsnow06/python_programing1/blob/gh-pages/images/S204%20Sequential%20Files-1.docx)
+
+[photo](https://github.com/willsnow06/python_programing1/blob/gh-pages/images/Capture.JPG)
