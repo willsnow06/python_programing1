@@ -15,7 +15,7 @@ The first class app of semester 1. A basic calculator with a few added features.
 [planing](https://github.com/willsnow06/python_programing1/blob/gh-pages/images/calculatorPic.jpeg)
 
 ### spacegame
-Final procesing project of the first semester. A game verry similar to asteroids.
+Final procesing project of the first semester. A game very similar to asteroids. i mean its litteraly asteroids with more precise stats.
 
 [Screenshot](https://github.com/willsnow06/python_programing1/blob/gh-pages/images/Screen%20Shot%202021-03-18%20at%208.38.03%20AM.png?raw=true)
 
